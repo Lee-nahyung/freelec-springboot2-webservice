@@ -1,10 +1,10 @@
-package com.jojoldu.book.freelec_springboot2_webservice;
+package com.jojoldu.book.freelec_springboot;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class FreelecSpringboot2WebserviceApplicationTests {
+class ApplicationTests {
 
 	@Test
 	void contextLoads() {
